@@ -1,3 +1,19 @@
+
+minimal_mistakes_skin    : "default"  # 전체적인 블로그의 색감을 정하는 값입니다.
+                           # "default" "air", "aqua", "contrast", "dark"
+                           # "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "ko-KR"    # 블로그의 주요 언어입니다. 한국어로 보려고 ko-KR로 설정했습니다.
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title                    : "Choon's daily post"  # 사이트 탭에서 보이는 이름입니다.
+title_separator          : "-"
+subtitle                 : "version 1.0"              # 화면 title 하단에 있는 소제목입니다.
+name                     : "김준석(JunSeok Kim)"      # 화면 하단 영역의 이름입니다.
+description              : "a site for JunSeok Kim"   # 설명란입니다. (어디 적용되는지 모르겠네요...) 
+url                      : "https://john123zerg.github.io" # 현재의 블로그 url 입니다.
+baseurl                  : # 폴백(예기치 못한 오류)일 때 연결되는 url입니다.
+repository               : "https://github.com/john123zerg/john123zerg.github.io" # Github Repo url입니다.
+teaser                   : # 폴백일 때 보일 이미지입니다. "assets/images/"로 연결됩니다.
+logo                     : # 화면에 보여지는 logo 이미지입니다. "assets/images"로 세팅합니다.
+masthead_title           : "Laerning is fun!😎"     # 화면 title 입니다.
